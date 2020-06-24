@@ -1,4 +1,3 @@
-author:hanyang
 ## 运行
 1.打开cmd，进入demo目录，执行如下命令
  ```
